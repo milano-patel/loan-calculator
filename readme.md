@@ -9,4 +9,4 @@ https://milano-patel.github.io/loan-calculator/
 Credit: Created while Learning the Javascript from Brad Traversy's Udemy Course: https://www.udemy.com/course/web-projects-with-vanilla-javascript/
 
 ## Screenshot:
-![UI-Screenshot](images/loan-calculator-ui.png)
+![UI-Screenshot](img/loan-calculator-ui.png)
